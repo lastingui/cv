@@ -1,0 +1,46 @@
+body { 
+    background-color: aliceblue; 
+    margin: center;
+}
+.resaltado{ 
+   
+ color:#000000;
+ background-color:lightblue;
+ font-style:italic; 
+}
+.divprinc{
+    
+    width: 70%;
+    margin: auto;
+    
+}
+
+.divone {
+
+    background: cadetblue;
+    width: 30%;
+    float: left;
+    color: #eeeeee;
+
+}
+.divtwo{
+    background: #eeeeee;
+    width: 50%;
+    float: left;
+}
+img{
+    width: 50%;
+    height: 40%;
+    border-radius: 100%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+h1, p, h3, h4, strong {
+    margin: 10px;
+}
+.parrafo{
+    margin: 2%;
+}
+.gris{
+    color: darkgray;
+}
